@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\table\table\bin\Debug\table.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\table\table\bin\Debug\table.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\table\table\bin\Debug\table.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\table\table\obj\Debug\table.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\table\table\obj\Debug\table.pdb
