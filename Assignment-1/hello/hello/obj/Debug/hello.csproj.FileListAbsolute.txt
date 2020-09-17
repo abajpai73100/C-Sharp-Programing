@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\bin\Debug\hello.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\bin\Debug\hello.exe
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\bin\Debug\hello.pdb
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\obj\Debug\hello.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\obj\Debug\hello.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\obj\Debug\hello.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\obj\Debug\hello.exe
+c:\users\dell\documents\visual studio 2013\Projects\hello\hello\obj\Debug\hello.pdb
