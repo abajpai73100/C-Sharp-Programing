@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\bin\Debug\daysloop.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\bin\Debug\daysloop.exe
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\bin\Debug\daysloop.pdb
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\obj\Debug\daysloop.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\obj\Debug\daysloop.exe
+c:\users\dell\documents\visual studio 2013\Projects\daysloop\daysloop\obj\Debug\daysloop.pdb
