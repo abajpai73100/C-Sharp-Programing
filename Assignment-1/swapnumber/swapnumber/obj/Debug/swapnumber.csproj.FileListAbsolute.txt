@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\swapnumber\swapnumber\bin\Debug\swapnumber.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\swapnumber\swapnumber\bin\Debug\swapnumber.exe
+c:\users\dell\documents\visual studio 2013\Projects\swapnumber\swapnumber\bin\Debug\swapnumber.pdb
+c:\users\dell\documents\visual studio 2013\Projects\swapnumber\swapnumber\obj\Debug\swapnumber.exe
+c:\users\dell\documents\visual studio 2013\Projects\swapnumber\swapnumber\obj\Debug\swapnumber.pdb
