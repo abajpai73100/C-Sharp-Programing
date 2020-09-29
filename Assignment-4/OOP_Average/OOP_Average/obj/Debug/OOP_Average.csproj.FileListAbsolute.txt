@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\bin\Debug\OOP_Average.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\obj\Debug\OOP_Average.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\bin\Debug\OOP_Average.exe
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\bin\Debug\OOP_Average.pdb
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\obj\Debug\OOP_Average.exe
+c:\users\dell\documents\visual studio 2013\Projects\OOP_Average\OOP_Average\obj\Debug\OOP_Average.pdb
