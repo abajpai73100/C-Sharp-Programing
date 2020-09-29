@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\bin\Debug\Temperatureconversion.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\bin\Debug\Temperatureconversion.exe
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\bin\Debug\Temperatureconversion.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\obj\Debug\Temperatureconversion.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\obj\Debug\Temperatureconversion.exe
+c:\users\dell\documents\visual studio 2013\Projects\Temperatureconversion\Temperatureconversion\obj\Debug\Temperatureconversion.pdb
