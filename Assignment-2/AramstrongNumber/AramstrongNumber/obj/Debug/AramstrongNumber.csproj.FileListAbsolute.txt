@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\AramstrongNumber\AramstrongNumber\bin\Debug\AramstrongNumber.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\AramstrongNumber\AramstrongNumber\bin\Debug\AramstrongNumber.exe
+c:\users\dell\documents\visual studio 2013\Projects\AramstrongNumber\AramstrongNumber\bin\Debug\AramstrongNumber.pdb
+c:\users\dell\documents\visual studio 2013\Projects\AramstrongNumber\AramstrongNumber\obj\Debug\AramstrongNumber.exe
+c:\users\dell\documents\visual studio 2013\Projects\AramstrongNumber\AramstrongNumber\obj\Debug\AramstrongNumber.pdb
