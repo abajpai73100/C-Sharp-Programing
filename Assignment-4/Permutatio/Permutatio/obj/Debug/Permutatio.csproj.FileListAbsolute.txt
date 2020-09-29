@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\Permutatio\Permutatio\bin\Debug\Permutatio.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Permutatio\Permutatio\bin\Debug\Permutatio.exe
+c:\users\dell\documents\visual studio 2013\Projects\Permutatio\Permutatio\bin\Debug\Permutatio.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Permutatio\Permutatio\obj\Debug\Permutatio.exe
+c:\users\dell\documents\visual studio 2013\Projects\Permutatio\Permutatio\obj\Debug\Permutatio.pdb
