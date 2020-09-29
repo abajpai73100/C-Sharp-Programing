@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\bin\Debug\FactorialRecursion.pdb
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\obj\Debug\FactorialRecursion.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\obj\Debug\FactorialRecursion.exe
+c:\users\dell\documents\visual studio 2013\Projects\FactorialRecursion\FactorialRecursion\obj\Debug\FactorialRecursion.pdb
