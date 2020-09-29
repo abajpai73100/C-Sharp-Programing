@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\SumOfSeriesUsingConstructor\SumOfSeriesUsingConstructor\bin\Debug\SumOfSeriesUsingConstructor.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\SumOfSeriesUsingConstructor\SumOfSeriesUsingConstructor\bin\Debug\SumOfSeriesUsingConstructor.exe
+c:\users\dell\documents\visual studio 2013\Projects\SumOfSeriesUsingConstructor\SumOfSeriesUsingConstructor\bin\Debug\SumOfSeriesUsingConstructor.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SumOfSeriesUsingConstructor\SumOfSeriesUsingConstructor\obj\Debug\SumOfSeriesUsingConstructor.exe
+c:\users\dell\documents\visual studio 2013\Projects\SumOfSeriesUsingConstructor\SumOfSeriesUsingConstructor\obj\Debug\SumOfSeriesUsingConstructor.pdb
