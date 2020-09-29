@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\DigitsToWords\DigitsToWords\bin\Debug\DigitsToWords.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\DigitsToWords\DigitsToWords\bin\Debug\DigitsToWords.exe
+c:\users\dell\documents\visual studio 2013\Projects\DigitsToWords\DigitsToWords\bin\Debug\DigitsToWords.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DigitsToWords\DigitsToWords\obj\Debug\DigitsToWords.exe
+c:\users\dell\documents\visual studio 2013\Projects\DigitsToWords\DigitsToWords\obj\Debug\DigitsToWords.pdb
