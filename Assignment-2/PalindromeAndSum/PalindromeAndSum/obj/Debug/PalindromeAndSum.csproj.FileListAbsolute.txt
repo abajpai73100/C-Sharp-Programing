@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\PalindromeAndSum\PalindromeAndSum\bin\Debug\PalindromeAndSum.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\PalindromeAndSum\PalindromeAndSum\bin\Debug\PalindromeAndSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\PalindromeAndSum\PalindromeAndSum\bin\Debug\PalindromeAndSum.pdb
+c:\users\dell\documents\visual studio 2013\Projects\PalindromeAndSum\PalindromeAndSum\obj\Debug\PalindromeAndSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\PalindromeAndSum\PalindromeAndSum\obj\Debug\PalindromeAndSum.pdb
