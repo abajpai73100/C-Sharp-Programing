@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.exe
+c:\users\dell\documents\visual studio 2013\Projects\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.exe
+c:\users\dell\documents\visual studio 2013\Projects\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.pdb
