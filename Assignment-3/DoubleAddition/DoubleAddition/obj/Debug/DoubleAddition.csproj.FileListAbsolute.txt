@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\DoubleAddition\DoubleAddition\bin\Debug\DoubleAddition.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\DoubleAddition\DoubleAddition\bin\Debug\DoubleAddition.exe
+c:\users\dell\documents\visual studio 2013\Projects\DoubleAddition\DoubleAddition\bin\Debug\DoubleAddition.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DoubleAddition\DoubleAddition\obj\Debug\DoubleAddition.exe
+c:\users\dell\documents\visual studio 2013\Projects\DoubleAddition\DoubleAddition\obj\Debug\DoubleAddition.pdb
